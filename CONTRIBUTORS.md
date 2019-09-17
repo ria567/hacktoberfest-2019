@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Ria Jain](https://github.com/ria567)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Final year IT undergraduate
+- GitHub: [ria567](https://github.com/ria567)
+
